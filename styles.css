@@ -28,11 +28,11 @@ h3 {
   font-family: 'Montserrat', sans-serif;
   color: #6B4F4F;
   font-weight: normal;
+  margin-top: 25px;;
 }
 
 p {
   font-family: 'Merriweather Sans', sans-serif;
-  margin-bottom: 0;
 }
 
 body {
@@ -72,12 +72,32 @@ body {
 
 .skills {
   padding-top: 60px;
+  align-items: center;
 }
 
 .skillrow {
-  padding-top: 40px;
+  padding-top: 50px;
+  padding-bottom: 70px;
+  width: 50%;
+  margin: auto;
+  text-align: left;
+  line-height: 2;
 }
-
+.cad{
+  width: 25%;
+  float: left;
+  padding-right: 40px;
+}
+.java{
+  width: 25%;
+  float: right;
+  padding-left: 40px;
+}
+.web{
+  width: 25%;
+  float:left;
+  padding-right: 40px;
+}
 .contact-me {
   padding-top: 60px;
 }
