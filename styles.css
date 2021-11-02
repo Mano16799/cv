@@ -1,0 +1,105 @@
+.head {
+  background-color: #D1E8E4;
+  margin: 0px;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+hr {
+  width: 50%;
+  color: grey;
+  margin-top: 60px;
+}
+
+h1 {
+  margin: 0px;
+  font-family: 'Sacramento', cursive;
+  font-weight: bold;
+  color: #1E5128;
+  font-size: 3.5rem;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #A9333A;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #6B4F4F;
+  font-weight: normal;
+}
+
+p {
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+body {
+  margin: 0px;
+  text-align: center;
+}
+
+.sun {
+  height: 150px;
+}
+
+.des {
+  margin-top: 10px;
+  margin-bottom: 50px;
+  font-family: 'MV Boli', sans-serif;
+  color: #4E9F3D;
+  font-size: 1.7em;
+}
+
+.palace {
+  height: 450px;
+  padding-bottom: 50px;
+}
+
+.middle-container {
+  padding-top: 80px;
+}
+
+.bottom-container {
+  padding-top: 10px;
+}
+
+.skills {
+  padding-top: 60px;
+}
+
+.skillrow {
+  padding-top: 40px;
+}
+
+.contact-me {
+  padding-top: 60px;
+}
+
+a:link {
+  color: #A9333A;
+}
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+  color: hotpink;
+}
+
+a:active {
+  color: blue;
+}
+.firstcloud{
+  height: 100px;
+  position: absolute;
+  right:200px;
+  top: 80px;
+}
+.secondcloud{
+  height: 100px;
+  position:absolute;
+  left: 150px;
+  bottom:300px;
+}
