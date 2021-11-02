@@ -1,5 +1,5 @@
 .head {
-  background-color: #D1E8E4;
+  background-color: #EEEBDD;
   margin: 0px;
   padding-top: 50px;
   padding-bottom: 20px;
@@ -15,7 +15,7 @@ h1 {
   margin: 0px;
   font-family: 'Sacramento', cursive;
   font-weight: bold;
-  color: #1E5128;
+  color: #A9333A;
   font-size: 3.5rem;
 }
 
@@ -32,6 +32,7 @@ h3 {
 
 p {
   font-family: 'Merriweather Sans', sans-serif;
+  margin-bottom: 0;
 }
 
 body {
@@ -44,11 +45,13 @@ body {
 }
 
 .des {
+  font-family: 'Montserrat', sans-serif;
   margin-top: 10px;
   margin-bottom: 50px;
-  font-family: 'MV Boli', sans-serif;
   color: #4E9F3D;
   font-size: 1.7em;
+  font-weight: light;
+  color: #C89595;
 }
 
 .palace {
@@ -61,7 +64,10 @@ body {
 }
 
 .bottom-container {
+  margin-top: 40px;
   padding-top: 10px;
+  background-color: #A9333A;
+  margin-bottom: 0;
 }
 
 .skills {
@@ -76,30 +82,45 @@ body {
   padding-top: 60px;
 }
 
-a:link {
+.btn {
+  font-family: 'Montserrat', sans-serif;
   color: #A9333A;
 }
 
-a:visited {
-  color: green;
+.footer-link1 {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  padding-left: 100px;
 }
 
-a:hover {
-  color: hotpink;
+.footer-link2 {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  padding-right: 100px;
+  padding-left: 100px;
 }
 
-a:active {
-  color: blue;
+.footer-link3 {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  padding-right: 100px;
 }
-.firstcloud{
+
+.copyright {
+  color: white;
+  padding-bottom: 50px;
+}
+
+.firstcloud {
   height: 100px;
   position: absolute;
-  right:200px;
+  right: 200px;
   top: 80px;
 }
-.secondcloud{
+
+.secondcloud {
   height: 100px;
-  position:absolute;
+  position: absolute;
   left: 150px;
-  top:300px;
+  top: 300px;
 }
